@@ -1,6 +1,6 @@
 <?php
 
-// Problem Link : https://www.hackerrank.com/challenges/reduced-string/submissions/code/47506453
+// Problem Link : https://www.hackerrank.com/challenges/reduced-string/problem
 
 $handle = fopen ("php://stdin", "r");
 function super_reduced_string($s){
