@@ -1,6 +1,14 @@
 <?php
 
-// Problem Link : https://www.hackerrank.com/challenges/reduced-string/problem
+/*
+ * Problem Link : https://www.hackerrank.com/challenges/reduced-string
+ * Author : Md Abu Ahsan Basir
+ * Personal : www.code-press.com/resume
+ * Hackerrank : https://www.hackerrank.com/abuahsan
+ * GitHub : https://github.com/maab16/
+ * Gitlab : https://gitlab.com/maab16 
+ * Stackoverflow: https://stackoverflow.com/users/6677064/md-abu-ahsan-basir 
+ */
 
 $handle = fopen ("php://stdin", "r");
 function super_reduced_string($s){
